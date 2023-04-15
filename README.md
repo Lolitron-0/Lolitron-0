@@ -30,7 +30,7 @@ https://t.me/lolitron
     * ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
     * ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolitron-0&theme=synthwave&exclude_repo=LAScriptManager)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolitron-0&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![Lolitron's GitHub stats](https://github-readme-stats.vercel.app/api?username=lolitron-0&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
