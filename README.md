@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on: 
   exams 
 - 🌱 I’m currently learning:
-i wish i could
+OpenGL
 - 📫 How to reach me:
 https://t.me/lolitron
 - I worked with 👇:
