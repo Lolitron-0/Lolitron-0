@@ -35,6 +35,6 @@ https://t.me/lolitron
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolitron-0&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![Lolitron's GitHub stats](https://github-readme-stats.vercel.app/api?username=lolitron-0&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
+ 
 ![umm](https://komarev.com/ghpvc/?username=lolitron-0)
 
