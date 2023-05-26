@@ -30,7 +30,7 @@ https://t.me/lolitron
     * ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
     * ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
     * ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-    * ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolitron-0&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) 
 
