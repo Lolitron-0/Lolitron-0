@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on: 
-  exams 
+  exams (and [this](https://github.com/Lolitron-0/Lithe))
 - 🌱 I’m currently learning:
 OpenGL
 - 📫 How to reach me:
