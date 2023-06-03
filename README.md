@@ -1,19 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&width=435&lines=found+cool+widget;+too+bad+i+can't+compose+a+single+line)](https://git.io/typing-svg)
 
-### Hi, I'm Vlad 👋
+### Hi, I'm Vlad
 <!--
 **Lolitron-0/Lolitron-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on: 
+- I’m currently working on: 
   exams (and [this](https://github.com/Lolitron-0/Lithe))
-- 🌱 I’m currently learning:
+- I’m currently learning:
 OpenGL
-- 📫 How to reach me:
+- How to reach me:
 https://t.me/lolitron
-- I worked with 👇:
+- I worked with:
 
   - ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     * ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
@@ -29,7 +29,6 @@ https://t.me/lolitron
     * ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     * ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
     * ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-    * ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
    
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolitron-0&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) 
