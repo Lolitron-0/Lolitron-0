@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - I’m currently working on: 
   [Lithe](https://github.com/Lolitron-0/Lithe)
 - I’m currently learning:
-OpenGL
+OpenGL, CG in general
 - How to reach me:
 https://t.me/lolitron
 - I worked with:
