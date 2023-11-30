@@ -11,7 +11,7 @@ Here are some ideas to get you started:
   * [Augventure](https://github.com/Lolitron-0/augventure)
   * Studying in university 
 - I’m currently learning:
-OpenGL, CG in general
+C, C++ backend
 - How to reach me:
 https://t.me/lolitron
 - I worked with:
