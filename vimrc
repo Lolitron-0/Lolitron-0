@@ -1,6 +1,6 @@
 " Setup
 " Node: https://github.com/nodesource/distributions
-" Powerline: sudo apt install python3-powerline
+" Powerline: sudo apt install python3-powerline fonts-powerline
 
 if v:progname =~? "evim"
   finish
@@ -92,6 +92,7 @@ call plug#begin()
 	Plug 'ErichDonGubler/vim-sublime-monokai'
 	Plug 'vim-airline/vim-airline'
 	Plug 'tikhomirov/vim-glsl'
+	Plug 'powerline/powerline-fonts'
 	Plug 'neoclide/coc.nvim', { 'branch': 'release'}
 
 call plug#end()
