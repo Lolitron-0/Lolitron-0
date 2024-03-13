@@ -16,6 +16,12 @@ C, C++ backend
 https://t.me/lolitron
 - I worked with:
 
+<style>
+ .icon {
+ background-color:white;
+ }
+</style>
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
@@ -27,11 +33,23 @@ https://t.me/lolitron
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 And some stuff without icons...
-   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolitron-0&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lolitron-0&show_icons=true&locale=en&theme=synthwave" alt="lolitron-0" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lolitron-0&show_icons=true&locale=en&theme=synthwave" alt="lolitron-0" /></p>
+ 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lolitron-0&theme=synthwave&" alt="lolitron-0" /></p>
+
+
+
+ <p><img align="center" src="https://komarev.com/ghpvc/?username=lolitron-0" alt="lolitron-0" /></p>
+
+<!--
+#[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolitron-0&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![Lolitron's GitHub stats](https://github-readme-stats.vercel.app/api?username=lolitron-0&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
- 
-![umm](https://komarev.com/ghpvc/?username=lolitron-0)
+-->
+
+
+
 
