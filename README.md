@@ -32,7 +32,7 @@ And some stuff without icons...
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lolitron-0&show_icons=true&locale=en&theme=synthwave" alt="lolitron-0" /></p>
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lolitron-0&theme=synthwave&" alt="lolitron-0" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lolitron-0&theme=synthwave&" alt="streak" /></p>
 
 
 
