@@ -28,11 +28,11 @@ https://t.me/lolitron
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 And some stuff without icons...
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lolitron-0&show_icons=true&locale=en&theme=synthwave" alt="lolitron-0" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lolitron-0&show_icons=true&locale=en&theme=synthwave&bg_color=00000000" alt="lolitron-0" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lolitron-0&show_icons=true&locale=en&theme=synthwave" alt="lolitron-0" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lolitron-0&show_icons=true&locale=en&theme=synthwave&bg_color=00000000" alt="lolitron-0" /></p>
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lolitron-0&theme=synthwave&" alt="streak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lolitron-0&theme=synthwave&bg_color=00000000" alt="streak" /></p>
 
 
 
