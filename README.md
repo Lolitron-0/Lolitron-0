@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 
 - I’m currently working on:
-  * [Augventure](https://github.com/Lolitron-0/augventure)
+  * [CanvasLib](https://github.com/Lolitron-0/CanvasLib)
   * Studying in university 
 - I’m currently learning:
 C, C++ backend
