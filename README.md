@@ -11,7 +11,7 @@ Here are some ideas to get you started:
   * [CanvasLib](https://github.com/Lolitron-0/CanvasLib)
   * Studying in university 
 - I’m currently learning:
-C, C++ backend
+C++, ASM
 - How to reach me:
 https://t.me/lolitron
 - I worked with:
