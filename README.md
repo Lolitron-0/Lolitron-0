@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&width=435&lines=found+cool+widget;+too+bad+i+can't+compose+a+single+line)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=9B76F7&random=false&width=435&lines=found+cool+widget;too+bad+i+can't+compose+a+single+line)](https://git.io/typing-svg)
 
 ### Hi, I'm Vlad :suspect:
 <!--
