@@ -28,6 +28,7 @@ https://t.me/lolitron
 ![Django](https://img.shields.io/badge/-django-AA55D8?style=for-the-badge&logo=django&logoColor=white)
 ![Express](https://img.shields.io/badge/-express-AA55D8?style=for-the-badge&logo=express&logoColor=white)
 ![Vue](https://img.shields.io/badge/-vue.js-AA55D8?style=for-the-badge&logo=vue.js&logoColor=white)
+![Mariadb](https://img.shields.io/badge/-mariadb-AA55D8?style=for-the-badge&logo=mariadb&logoColor=white)
 
 #### 🎨 Graphics/GUI 
 ![Qt](https://img.shields.io/badge/-qt-7338AD?style=for-the-badge&logo=qt&logoColor=white)
