@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 -->
 
 - I’m currently working on:
-  * [CanvasLib](https://github.com/Lolitron-0/CanvasLib)
   * Studying in university 
 - I’m currently learning:
 C++, ASM
