@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 - I’m currently working on:
   * Studying in university 
-- I’m currently learning:
+- I’m learning:
 C++, ASM
 - How to reach me:
 https://t.me/lolitron
