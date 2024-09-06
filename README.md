@@ -44,7 +44,7 @@ https://t.me/lolitron
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lolitron-0&show_icons=true&locale=en&theme=synthwave&bg_color=00000000" alt="lolitron-0" /></p>
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lolitron-0&theme=synthwave&bg_color=00000000" alt="streak" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lolitron-0&theme=synthwave&bg_color=00000000" alt="streak" /></p> -->
 
 
 
