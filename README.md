@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 
 - I’m currently working on:
-  * Studying in university, working at ISP RAS, [plut](https://github.com/Lolitron-0/plut)
+  * Studying in university, working at ISP RAS, ~~[plut](https://github.com/Lolitron-0/plut)~~
 - I’m learning:
 C++
 - How to reach me:
