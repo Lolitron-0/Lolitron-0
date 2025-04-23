@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - I’m currently working on:
   * Studying in university, working at ISP RAS, [bort](https://github.com/Lolitron-0/bort)
 - I’m learning:
-C++
+C++, Compilers
 - How to reach me:
 https://t.me/lolitron
 - I worked with:
