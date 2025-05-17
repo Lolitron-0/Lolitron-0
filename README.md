@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 
 - I’m currently working on:
-  * Studying in university, working at ISP RAS, [ocaml-playground](https://github.com/Lolitron-0/ocaml-playground)
+  * Studying in university, working at ISP RAS, [ocaml-playground](https://github.com/niten01/ocaml-playground)
 - I’m learning:
 C++, OCaml, Compilers
 - How to reach me:
