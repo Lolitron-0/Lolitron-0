@@ -40,14 +40,13 @@ https://t.me/lolitron
 ![OpenCV](https://img.shields.io/badge/-opencv-482B97?style=for-the-badge&logo=opencv&logoColor=white)
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=niten01&show_icons=true&locale=en&theme=synthwave&bg_color=00000000&r=2" alt="" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=niten01&show_icons=true&locale=en&theme=synthwave&bg_color=00000000&r=2" alt="" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=niten&locale=en&theme=synthwave&bg_color=00000000&layout=compact" alt="" />
+</p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niten01&show_icons=true&locale=en&theme=synthwave&bg_color=00000000" alt="" /></p> -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=niten&locale=en&theme=synthwave&bg_color=00000000&layout=compact" alt="" /></p> 
-
  
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lolitron-0&theme=synthwave&bg_color=00000000" alt="streak" /></p> -->
-
 
  <p><img align="center" src="https://komarev.com/ghpvc/?username=lolitron-0" alt="" /></p>
 
